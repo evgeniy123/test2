@@ -7,3 +7,5 @@ origin_text.txt
 prosto test
 
 vvv
+
+bbb
